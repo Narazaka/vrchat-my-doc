@@ -33,7 +33,7 @@ Unityのエクスポート機能によってうっかり含まれてしまう場
 
 ### 適切に利用規約（ライセンス）を付けること
 
-著作物（自分で作った3Dモデル・テクスチャ・絵・ソフトウェア等）は作者が特別に許可をしない限り原則他人が利用することはできません（参考: [著作権って何？（はじめての著作権講座 ）](https://www.cric.or.jp/qa/hajime/index.html) ただし「引用」等の例外はあります→[著作物が自由に使える場合 | 文化庁](https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/gaiyo/chosakubutsu_jiyu.html)）。
+著作物（自分で作った3Dモデル・テクスチャ・絵・ソフトウェア等）は作者が特別に許可をしない限り原則他人が利用することはできません（参考: [著作権って何？（はじめての著作権講座 ）](https://www.cric.or.jp/qa/hajime/index.html) ただし「引用」等の例外はあります→[著作物が自由に使える場合 \| 文化庁](https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/gaiyo/chosakubutsu_jiyu.html)）。
 
 そのため他人に利用されることを前提とした配布物には原則明示的な許可が必要で、「利用規約」を定めて許可範囲を明示することが推奨されます。
 
